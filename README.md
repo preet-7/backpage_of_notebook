@@ -8,6 +8,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
 
+https://colorhunt.co/
+
 https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 
 https://www.lipsum.com/
