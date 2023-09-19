@@ -6,9 +6,14 @@ https://www.submarinecablemap.com/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+
 https://www.lipsum.com/
 
 https://www.diffchecker.com/
+
 
 
 visual studio
