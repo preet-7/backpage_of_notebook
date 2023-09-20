@@ -12,6 +12,8 @@ https://colorhunt.co/
 
 https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
 
+https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+
 https://www.lipsum.com/
 
 https://www.diffchecker.com/
