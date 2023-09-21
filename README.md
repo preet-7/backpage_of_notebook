@@ -20,6 +20,8 @@ https://www.diffchecker.com/
 
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+websitename/robot.txt
+
 visual studio
 
 Plugin Installation
